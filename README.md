@@ -13,6 +13,6 @@ i have devlope the Razer clone landing page using html and css
 
 original website : https://www.razer.com/
 
-solution link : https://github.com/Vinoth30457/discord.git
+solution link : https://github.com/Vinoth30457/Razar.git
 
-my project live link: https://deluxe-manatee-5f8a25.netlify.app
+my project live link: https://leafy-flan-08a543.netlify.app
