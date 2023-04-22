@@ -170,7 +170,7 @@ header {
   background-image: url(/image/razer-blade-mobile2x.jpg);
   background-size: cover;
   background-position: center;
-  background-position: cover;
+
   background-repeat: no-repeat;
   gap: 0.7rem;
   border-bottom: 0.65rem solid #555555;
@@ -220,7 +220,7 @@ header {
   background-image: url(/image/deathadder-mobile2x.jpg);
   background-size: cover;
   background-position-y: center;
-  background-position: cover;
+
   background-repeat: no-repeat;
   gap: 0.7rem;
   border-bottom: 0.65rem solid #555555;
@@ -232,7 +232,7 @@ header {
   background-image: url(/image/razer-blade-18-mobile2x.jpg);
   background-size: cover;
   background-position: center;
-  background-position: cover;
+
   background-repeat: no-repeat;
   gap: 0.7rem;
   border-bottom: 0.65rem solid #555555;
